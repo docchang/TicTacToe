@@ -11,7 +11,7 @@ Mac App: <https://www.dropbox.com/sh/0umn74crjefvpa9/AACI4YU34RtUz0hnbcSICJMWa?d
 ####Screencast:
 [![](http://img.youtube.com/vi/npk8uwKSReM/0.jpg)](https://www.youtube.com/watch?v=npk8uwKSReM "TTT")
 
-####Timer:
+####Timer: 05:17:51
 
 ![](https://photos-4.dropbox.com/t/2/AAAN8b-g59KypjTZcP96szQtNBSAxF88XELyRcr4AVZxuQ/12/92483404/png/32x32/3/1451635200/0/2/timer.png/EKDE60cYthogAigC/gwYS1hkvjVzgVYAOzQb8g9pQD_I2IDxP11mqufLU9CU?size_mode=3&size=1280x960)
 
@@ -37,4 +37,3 @@ Mac App: <https://www.dropbox.com/sh/0umn74crjefvpa9/AACI4YU34RtUz0hnbcSICJMWa?d
 2. LOSE - let the AI win and see will it display the correct game over sequence
 3. DRAW - play until there is no more moves see will it display the correct game over sequence
 4. AI sharpness - try to win and see if it will block you
-5. 
