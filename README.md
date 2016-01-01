@@ -26,8 +26,8 @@ Mac App: <https://www.dropbox.com/sh/0umn74crjefvpa9/AACI4YU34RtUz0hnbcSICJMWa?d
 4. Check winning by looking at a list of horizontal, vertical, diagonal right, diagonal left
 
 ####AI:
-1. Build an profile for each list of horizontal, vertical, diagonal right, diagonal left
-2. Checking if there is a threat and assign the highest weight for it
+1. Build a profile per list of horizontal, vertical, diagonal right, diagonal left
+2. Checking if there is a threat and assign the appropriate weight
 3. Sorting available moves by weight
 4. Determine game over sequence
 
