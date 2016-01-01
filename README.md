@@ -9,7 +9,7 @@ Mac App: <https://www.dropbox.com/sh/0umn74crjefvpa9/AACI4YU34RtUz0hnbcSICJMWa?d
 ## Development
 
 ####Screencast:
-
+[![](http://img.youtube.com/vi/npk8uwKSReM/0.jpg)](https://www.youtube.com/watch?v=npk8uwKSReM "TTT")
 
 ####Timer:
 
@@ -36,3 +36,5 @@ Mac App: <https://www.dropbox.com/sh/0umn74crjefvpa9/AACI4YU34RtUz0hnbcSICJMWa?d
 1. WIN - get 4 in a row and see will it display the correct game over sequence
 2. LOSE - let the AI win and see will it display the correct game over sequence
 3. DRAW - play until there is no more moves see will it display the correct game over sequence
+4. AI sharpness - try to win and see if it will block you
+5. 
