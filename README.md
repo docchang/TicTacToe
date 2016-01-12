@@ -13,7 +13,7 @@ Mac App: <https://www.dropbox.com/sh/0umn74crjefvpa9/AACI4YU34RtUz0hnbcSICJMWa?d
 
 ####Timer: 05:17:51
 
-![](https://photos-4.dropbox.com/t/2/AAAN8b-g59KypjTZcP96szQtNBSAxF88XELyRcr4AVZxuQ/12/92483404/png/32x32/3/1451635200/0/2/timer.png/EKDE60cYthogAigC/gwYS1hkvjVzgVYAOzQb8g9pQD_I2IDxP11mqufLU9CU?size_mode=3&size=1280x960)
+![](https://photos-6.dropbox.com/t/2/AAAj_6Y9cbH0M-7DpkQCJYywn9wpwuh_LposeWVbfh5ODg/12/92483404/png/32x32/3/1452592800/0/2/timer.png/EKDE60cYzxogAigC/gwYS1hkvjVzgVYAOzQb8g9pQD_I2IDxP11mqufLU9CU?size_mode=3&size=1600x1200)
 
 
 ##Approach:
